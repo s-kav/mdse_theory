@@ -365,19 +365,6 @@ If you use this work in your research, please cite:
 - Kavun, S. (2025). "Multidimensional Space of Events: A Novel Framework for Probabilistic Modeling." *arXiv:2505.11566*.
 - [Additional papers will be listed as they become available]
 
-## 📖 Documentation
-
-- **API Reference**: [docs/api.md](docs/api.md)
-- **Tutorials**: [docs/tutorials/](docs/tutorials/)
-- **Examples**: [examples/](examples/)
-- **Theory Details**: [docs/theory.md](docs/theory.md)
-
-## 🐛 Issues and Support
-
-- **Bug Reports**: [GitHub Issues](../../issues)
-- **Feature Requests**: [GitHub Discussions](../../discussions)
-- **Questions**: [Stack Overflow](https://stackoverflow.com/questions/tagged/mdse-theory)
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
