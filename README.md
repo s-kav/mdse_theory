@@ -363,6 +363,7 @@ If you use this work in your research, please cite:
 ### Related Publications
 
 - Kavun, S. (2025). "Multidimensional Space of Events: A Novel Framework for Probabilistic Modeling." *arXiv:2505.11566*.
+- Sergii Kavun. (2025). s-kav/mdse_theory: version 01 (v_01). Zenodo. https://doi.org/10.5281/zenodo.17067659
 - [Additional papers will be listed as they become available]
 
 ## 📄 License
